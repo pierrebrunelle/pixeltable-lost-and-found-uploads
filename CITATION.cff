@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use or adapt this example app, please cite it using these metadata."
+type: software
+title: "neighborhood lost-and-found API built with Pixeltable"
+abstract: "Neighborhood lost-and-found API: multipart photo and video uploads, thumbnails to a configurable media destination, gpt-4o-mini vision captions, and CLIP search by text or by photo from one FastAPIRouter."
+authors:
+  - given-names: "Pierre"
+    family-names: "Brunelle"
+repository-code: "https://github.com/pierrebrunelle/pixeltable-lost-and-found-uploads"
+url: "https://pierrebrunelle.github.io/awesome-pixeltable-apps/"
+license: Apache-2.0
+version: "0.1.0"
+date-released: 2026-11-15
+keywords:
+  - "pixeltable"
+  - "pixeltable-example"
+  - "python"
+  - "rest-api"
+  - "lost-and-found"
+  - "multipart-upload"
+  - "clip"
+  - "image-search"
+  - "openapi"
+  - "configuration"

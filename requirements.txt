@@ -1,0 +1,6 @@
+pixeltable[serve]>=0.7.24
+pillow
+openai>=1
+torch
+transformers
+av

@@ -1,0 +1,22 @@
+[project]
+name = "pixeltable-lost-and-found-uploads"
+version = "0.1.0"
+description = "Neighborhood lost-and-found API: multipart photo and video uploads, thumbnails to a configurable media destination, gpt-4o-mini vision captions, and CLIP search by text or by photo from one FastAPIRouter - built with Pixeltable"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "Apache-2.0"
+authors = [{ name = "Pierre Brunelle" }]
+keywords = ["pixeltable", "multimodal", "ai", "fastapi", "computed-columns", "data-infrastructure", "lost-and-found-uploads"]
+dependencies = [
+    "pixeltable[serve]>=0.7.24",
+    "pillow",
+    "openai>=1",
+    "torch",
+    "transformers",
+    "av",
+]
+
+[project.urls]
+Homepage = "https://pixeltable.com"
+Documentation = "https://docs.pixeltable.com"
+Pixeltable = "https://github.com/pixeltable/pixeltable"

@@ -1,0 +1,77 @@
+{
+ "keys": {
+  "title": "File:Various keys on keyring.jpg",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/w/index.php?curid=125050600",
+  "file": "keys.jpg",
+  "bytes": 371034
+ },
+ "wallet": {
+  "title": "File:Leather bi-fold wallet by Eugene Pik (2021) 04.jpg",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/w/index.php?curid=201958751",
+  "file": "wallet.jpg",
+  "bytes": 164421
+ },
+ "teddy": {
+  "title": "File:Teddy bear early 1900s - Smithsonian Museum of Natural History.jpg",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/w/index.php?curid=41208714",
+  "file": "teddy.jpg",
+  "bytes": 880674
+ },
+ "backpack": {
+  "title": "File:Back to school snacks water bottle notebook backpack (20503811429).jpg",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/w/index.php?curid=148028479",
+  "file": "backpack.jpg",
+  "bytes": 209769
+ },
+ "glove": {
+  "title": "File:Glove left on a post in the snow in Quebec City.jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/w/index.php?curid=143175117",
+  "file": "glove.jpg",
+  "bytes": 241478
+ },
+ "scarf": {
+  "title": "File:Knit cap and loop scarf set.jpg",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/w/index.php?curid=181889859",
+  "file": "scarf.jpg",
+  "bytes": 336756
+ },
+ "cat": {
+  "title": "File:Lost cat - geograph.org.uk - 5934308.jpg",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/w/index.php?curid=142183169",
+  "file": "cat.jpg",
+  "bytes": 556397
+ },
+ "headphones": {
+  "title": "File:Bose QuietComfort 25 Acoustic Noise Cancelling Headphones with Carry Case.jpg",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/w/index.php?curid=48773653",
+  "file": "headphones.jpg",
+  "bytes": 90631
+ },
+ "water_bottle": {
+  "title": "File:Metal Water Bottles.jpeg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/w/index.php?curid=19133709",
+  "file": "water_bottle.jpg",
+  "bytes": 81826
+ },
+ "bicycle": {
+  "title": "File:Bicycle in Amsterdam.jpg",
+  "file": "bicycle.jpg",
+  "source": "https://commons.wikimedia.org/w/index.php?curid=156027266",
+  "license": "CC BY 2.0"
+ },
+ "umbrella": {
+  "title": "File:Umbrella.png",
+  "file": "umbrella.png",
+  "source": "https://commons.wikimedia.org/w/index.php?curid=405047",
+  "license": "Public domain"
+ }
+}
